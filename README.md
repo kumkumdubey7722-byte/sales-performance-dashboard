@@ -37,21 +37,11 @@ The dashboard includes:
 - Profit by Category
 - Overall Sales Overview
 
-## 🖼️ Dashboard Preview
-
-### Page 1
-
-![Sales Performance Dashboard](dashboard%20image.png)
-
-### Page 2
-
-![Sales Performance Dashboard](dashboard%20image2.png)
-
 ## 📁 Project Files
 
 - `Sales-performance-dashboard.pbix` — Power BI dashboard file
-- `dashboard image.png` — Dashboard screenshot
-- `dashboard image2.png` — Dashboard screenshot
+- `dashboard-page-1.png — Dashboard screenshot
+- `dashboard-page-2.png — Dashboard screenshot
 - `README.md` — Project documentation
 
 ## 🎯 Project Objective
